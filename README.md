@@ -24,6 +24,20 @@ my-global-skills/
 
 当前仓库就是按这个思路组织（部分目录为符号链接指向外部维护路径）。
 
+## 当前 Skills
+
+| 目录 | 说明 |
+|------|------|
+| `05-ba-analysis/` | 商业分析（BA）报告 |
+| `10-web-design-engineer/` | Web 设计工程 |
+| `finance-analysis/` | 财务分析 |
+| `bazi/` | 八字排盘与命理分析（来源：[jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill)，MIT） |
+| `create-agent-adapter/` | 符号链接（外部维护） |
+| `paperclip/` | 符号链接（外部维护） |
+| `paperclip-create-agent/` | 符号链接（外部维护） |
+| `paperclip-create-plugin/` | 符号链接（外部维护） |
+| `para-memory-files/` | 符号链接（外部维护） |
+
 ## 快速开始
 
 ### 1) 克隆到本地 Skills 目录
