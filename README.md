@@ -31,6 +31,7 @@ my-global-skills/
 | `05-ba-analysis/` | 商业分析（BA）报告 |
 | `10-web-design-engineer/` | Web 设计工程 |
 | `finance-analysis/` | 财务分析 |
+| `logistics-workbench/` | 在现有 AI Harness 中扩展物流工作台，包含订单处理、结算对账、回单管理和 TMS 入口 |
 | `bazi/` | 八字排盘与命理分析（来源：[jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill)，MIT） |
 | `create-agent-adapter/` | 符号链接（外部维护） |
 | `paperclip/` | 符号链接（外部维护） |

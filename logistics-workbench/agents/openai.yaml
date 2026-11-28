@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logistics Workbench"
+  short_description: "Build logistics workbench prototypes"
+  default_prompt: "Create a professional logistics workbench that extends the existing Harness shell."
